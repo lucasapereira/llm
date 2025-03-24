@@ -9,6 +9,6 @@ services:
     working_dir: /usr/src/app
     volumes:
       - .:/usr/src/app
-    command: python main.py
+    command: python app.py
     environment:
       - PYTHONUNBUFFERED=1
