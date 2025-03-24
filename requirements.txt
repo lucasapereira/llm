@@ -15,12 +15,6 @@ ollama
 psutil
 setuptools
 speedtest-cli
-langchain
-langchain-core
-langchain-text-splitters
-langchain-openai
-langchain-chroma
-langchain-community
 faiss-cpu
 feedparser
 twilio
